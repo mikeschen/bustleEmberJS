@@ -1,0 +1,17 @@
+{ "bustles": [{
+  "heading": "Trump wins election!",
+  "author": "Emily Shire",
+  "type": "news",
+  "image": "http://static4.businessinsider.com/image/566efa6172f2c15b028b56ae/donald-trumps-support-just-soared-to-a-new-high.jpg"
+}, {
+  "heading": "How Much $1 Buys",
+  "author": "Dasha",
+  "type": "lifestyle",
+  "image": "http://wereblog.com/wp-content/uploads/2014/10/Taiwan-Hongkong-McDonalds%E2%80%99-Black-White-Burger.jpg"
+}, {
+  "heading": "Bo Obama's Story",
+  "author": "Bo",
+  "type": "books",
+  "image": "http://images.csmonitor.com/csmarchives/2010/05/0518-bo-obama.jpg?alias=standard_600x400"
+  }]
+}
