@@ -7,6 +7,7 @@ const Router = Ember.Router.extend({
 
 Router.map(function() {
   this.route('about');
+  this.route('bustle', {path: 'bustle/:bustle_id'});
 });
 
 export default Router;

@@ -1,4 +1,5 @@
 <div class="col-md-4">
-  <p>{{bustle.heading}} by {{bustle.author}} | {{bustle.type}}
+  <p>{{#link-to 'bustle' bustle.id}} {{bustle.heading}} by {{bustle.author}} |      {{bustle.type}}
+  {{/link-to}}
   <img src={{bustle.image}} alt={{bustle.type}}></p>
 </div>
